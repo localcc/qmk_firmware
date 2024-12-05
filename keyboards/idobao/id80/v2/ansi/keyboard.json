@@ -1,6 +1,7 @@
 {
     "keyboard_name": "ID80 ANSI",
     "usb": {
+        "vid": "0x6964",
         "pid": "0x0080"
     },
     "layouts": {
